@@ -1,0 +1,6 @@
+#
+# Ignore linux environment files
+#
+.directory
+.*.kate-swp
+
